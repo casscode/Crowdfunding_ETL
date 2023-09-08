@@ -8,3 +8,6 @@ https://www.w3schools.com/python/python_lists_comprehension.asp
 
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.merge.html 
 
+https://app.quickdatabasediagrams.com/#/
+
+
